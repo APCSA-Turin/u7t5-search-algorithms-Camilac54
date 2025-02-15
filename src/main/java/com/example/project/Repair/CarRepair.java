@@ -3,7 +3,7 @@ package com.example.project.Repair;
 public class CarRepair {
     private int mechanicNum;
     private int bayNum;
-
+ 
     public CarRepair(int m, int b) {
         mechanicNum = m;
         bayNum = b;
